@@ -1,0 +1,8 @@
+deepLinking: true
+displayRequestDuration: true
+syntaxHighlight: false
+tryItOutEnabled: true
+requestSnippetsEnabled: true
+requestSnippets: { 
+  defaultExpanded: false
+}
