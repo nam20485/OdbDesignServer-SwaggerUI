@@ -569,10 +569,10 @@ components:
     BasicAuth:
       type: http
       scheme: basic
-  schemas:
-    odbdesign-server-schema:
-      type: object
-      properties:
-        id:
-          type: integer
-          format: int64
+  # schemas:
+  #   odbdesign-server-schema:
+  #     type: object
+  #     properties:
+  #       id:
+  #         type: integer
+  #         format: int64
