@@ -1,0 +1,6 @@
+{
+    "deepLinking": true,
+    "displayRequestDuration": true,
+    "syntaxHighlight": false,
+    "tryItOutEnabled": true   
+}
