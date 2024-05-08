@@ -8,8 +8,8 @@ name: Docker
 on: 
   push:
     branches: [ "master", "development", "nam20485" ]
-  pull_request:
-    branches: [ "master", "development", "nam20485" ]
+  # pull_request:
+  #   branches: [ "master", "development", "nam20485" ]
 
 env:
   # Use docker.io for Docker Hub if empty
